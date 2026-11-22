@@ -1,68 +1,84 @@
 <div align="center">
 
-# Essa | Systems & Infrastructure Engineer
+# Essa Zumayyin
+### Systems & Infrastructure Engineer | Security-Minded Product Builder
 
-**Enterprise Infrastructure · Cybersecurity · Product Engineering**
+**Enterprise IT operations · Infrastructure resilience · Product engineering**
 
-Building resilient IT environments and translating real-world problems into practical software products.
+Based in Riyadh, Saudi Arabia 🇸🇦
 
-📍 Riyadh, Saudi Arabia · Open to infrastructure, cloud, cybersecurity, and technical leadership opportunities
+[Professional Background](#enterprise-engineering) · [Selected Work](#selected-work) · [Engineering Values](#how-i-build)
 
 </div>
 
 ---
 
-## About me
+> **I build for reliability and real-world impact.** My professional foundation is in enterprise infrastructure; my independent product work explores how software can solve complex problems with security and trust built in.
 
-I'm a systems and infrastructure engineer with experience across enterprise Windows and Linux administration, virtualization, Microsoft 365, networking, firewall policy management, backup and recovery, and technical troubleshooting.
+## At a glance
 
-My approach combines **operational reliability** with **product-minded engineering**. Alongside infrastructure work, I lead and prototype software products using modern development tooling and AI-assisted workflows, including Cursor. AI tools support the engineering process; architecture decisions, validation, and release readiness still require human review.
+| Enterprise engineering | Cross-site delivery | Independent product building |
+| :--- | :--- | :--- |
+| Windows Server, Linux, AD, Microsoft 365 | Contributed to a SASO-related rollout across **38 inspection stations** | Payments research, service marketplaces, social coordination |
+| Virtualization, network operations, backup and recovery | Troubleshooting, RCA, operational continuity | Architecture, prototyping, testing, and technical documentation |
 
-## Infrastructure experience
+## Enterprise engineering
 
-| Area | Hands-on experience |
-| --- | --- |
-| Systems | Windows Server, Linux, Active Directory, Microsoft 365 |
-| Virtualization | VMware vSphere / ESXi, Hyper-V, virtual machine operations |
-| Networks & security | Cisco networking, VLANs, FortiGate firewall policies |
-| Operations | Troubleshooting, root cause analysis, backups, disaster recovery, datacenter operations |
-| Delivery | Cross-site technical implementation and stakeholder coordination |
+My work spans systems administration, virtualization, Microsoft 365 administration, enterprise networking, operational security, datacenter environments, and backup/recovery coordination.
 
-**Selected enterprise delivery:** Helped lead a SASO-related implementation across **38 vehicle inspection stations**.
+| Discipline | Technologies and responsibilities |
+| :--- | :--- |
+| **Systems & identity** | Windows Server · Linux · Active Directory · Microsoft 365 |
+| **Virtualization** | VMware vSphere / ESXi · Hyper-V · VM lifecycle operations |
+| **Networking & security** | Cisco · VLANs · FortiGate firewall rule management |
+| **Reliability** | Backup & recovery · incident troubleshooting · root cause analysis |
+| **Project delivery** | Site-level implementation, technical coordination, and operational handover |
 
-## Selected product work
+## Selected work
 
-> **Disclosure:** The projects below are privately developed or under validation. They are not represented here as publicly available, production-certified, or commercially launched products. Source repositories may be private.
+These are **high-level product case studies**, not links to source code. Their repositories remain private.
 
-### RIVAPay — Payment intelligence and fraud-risk research
+<table>
+<tr><th>Project</th><th>Problem space</th><th>Work focus</th></tr>
+<tr><td><strong>RIVAPay / FTI research</strong></td><td>Trust and evidence in payment-risk analysis</td><td>Event provenance, continuity, location confidence, testable risk hypotheses</td></tr>
+<tr><td><strong>Shaghal · شغّال</strong></td><td>Finding and coordinating dependable local services</td><td>Customer discovery, establishment onboarding, worker affiliation and service workflows</td></tr>
+<tr><td><strong>TRIGG</strong></td><td>Turning social intent into real-world coordination</td><td>Social experiences, activity participation, mobile and backend validation</td></tr>
+</table>
 
-Researching payment-event evidence, location and timeline consistency, anomaly signals, and explainable fraud-risk workflows. Work spans product architecture, technical proofs, and controlled validation. **No claim of live bank integration or autonomous payment enforcement.**
+**Project maturity matters:** exploratory, prototype, laboratory, and field-validation work is not presented as general availability, regulatory approval, live bank connectivity, or completed payment enforcement.
 
-### Shaghal (شغّال) — Services marketplace
+## How I build
 
-Designing a Saudi-focused marketplace connecting customers with verified service establishments and their affiliated workers. Work includes provider discovery, service requests, establishment operations, trust and verification, and role-specific user journeys. **Payments and automatic payouts are not presented as live.**
+1. **Understand the operating problem** — users, constraints, dependencies, and failure modes.
+2. **Design for trust** — permissions, evidence, privacy, isolation, and explicit system boundaries.
+3. **Implement and verify** — version control, code review, automated checks, and repeatable tests.
+4. **Communicate clearly** — architecture notes, release gates, known limitations, and next decisions.
 
-### TRIGG — Social intent to real-world action
+I use **Cursor and AI-assisted engineering tools** in my product-development workflow. AI accelerates implementation and exploration; it does not replace technical judgment, testing, or release validation.
 
-Developing a social experience where content and conversations can lead to organized, real-world activities. The mobile and backend stack supports iterative field validation, while future commerce capabilities remain outside the current release scope.
+## Technology map
 
-## How I work
+**Enterprise / hands-on operations**
 
-- **Build deliberately:** Define the problem, system boundaries, risks, and acceptance criteria before expanding scope.
-- **Validate claims:** Separate working features, laboratory proofs, staging results, and future plans.
-- **Protect users:** Treat security, privacy, access control, and safe release practices as design requirements.
-- **Use AI responsibly:** Use Cursor and AI-assisted development tools to accelerate implementation and documentation, while verifying the output with tests and review.
+`Windows Server` `Linux` `Active Directory` `Microsoft 365` `VMware` `Hyper-V` `Cisco` `FortiGate`
 
-## Technical toolkit
+**Project engineering / development workflows**
 
-`Windows Server` · `Linux` · `Active Directory` · `Microsoft 365` · `VMware` · `Hyper-V` · `Cisco` · `FortiGate` · `Docker` · `Python` · `TypeScript` · `React Native` · `FastAPI` · `PostgreSQL` · `GitHub` · `Cursor`
+`Python` `TypeScript` `FastAPI` `React Native` `PostgreSQL` `Docker` `GitHub` `Cursor`
 
-*Infrastructure technologies represent professional experience; application-development tools represent project work and ongoing learning, not identical levels of expertise.*
+*These categories intentionally distinguish professional operations experience from tools used while developing independent products.*
+
+## Working principles
+
+- Prefer **verified outcomes** over inflated feature claims.
+- Keep private repositories, infrastructure details, and credentials **private**.
+- Treat security and operational recovery as engineering requirements, not afterthoughts.
+- Build deliberately: a smaller validated release is better than an untested feature list.
 
 ---
 
 <div align="center">
 
-**Infrastructure reliability. Security by design. Products grounded in real problems.**
+**Reliable infrastructure · Defensible engineering · Practical innovation**
 
 </div>
